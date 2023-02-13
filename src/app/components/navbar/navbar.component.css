@@ -96,7 +96,8 @@
     display: flex;
     align-items: center;
 }
-.lowerNavbar>.lowerNavbarOptions>.navbar>.navbarDropdown > i{
+
+.lowerNavbar>.lowerNavbarOptions>.navbar>.navbarDropdown>i {
     margin: 0px 5px;
 }
 
@@ -127,3 +128,9 @@
 }
 
 /* Lower Navbar ends */
+
+marquee {
+    width: 100%;
+    direction: left;
+    height: 1rem;
+}
